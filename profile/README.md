@@ -1,6 +1,6 @@
 ## carrot-style 😎
 
-> Shorten your URLs nicely with carrot-style!
+> Shorten your URLs nicely with carrot-style! [[terms-of-service]](https://github.com/carrot-style/terms-of-service)
 
 It was created to achieve the url shortener development, which was one of the development goals.
 
